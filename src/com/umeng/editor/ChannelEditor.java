@@ -15,7 +15,7 @@ public class ChannelEditor {
 	private final String NAME = "name";
 	private final String VALUE = "value";
 	
-	private String mChannelName = "UMENG_CHANNEL";
+	private String mChannelName = "DC_CHANNEL";
 	private String mChannelValue = "placeholder";
 	
 	private int namespace;
